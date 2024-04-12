@@ -77,4 +77,22 @@
  - Crear un nuevo repositorio sin READ.ME
  - git remote origin \<direccion-del-repositorio-url>
  - git push -u origin \<nombre-rama>
- 
+
+## error remote origin already exist
+
+- git remote rm origin
+
+## READ.ME
+
+- Archivo para leer de que se trata el proyecto
+- Es una presentanción del proyecto
+- Es de tipo mark-down
+
+## git clone
+
+- git clone \<url-del-codigo-de-un-repositorio-de-github>
+
+## Uniendo dos ramas
+
+- Estando en rama main
+- git merge \<nueva-rama>
